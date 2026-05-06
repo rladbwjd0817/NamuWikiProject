@@ -35,7 +35,6 @@
 - **Java 17 / Spring Boot** — REST API 서버
 - **MariaDB / MyBatis** — 관계형 데이터베이스 및 SQL 매핑
 - **Spring Security / JWT** — 인증 및 권한 관리
-- **SSE (Server-Sent Events)** — AI 챗봇 스트리밍 응답
 - **Swagger (SpringDoc)** — API 문서 자동화
 
 ### Frontend
@@ -55,11 +54,6 @@
 ---
 
 ## ✨ 주요 기능
-
-### 🌿 AI 식물 식별
-- 사진 업로드 → **PlantNet AI**가 식물 학명, 속명, 과명, 유사도 점수 반환
-- **산림청 KPNI API** 연동으로 학명을 한국어 이름으로 자동 매핑
-- 상위 3개 후보 결과 동시 표시 및 최적 일치 하이라이트
 
 ### 🌾 스마트 농장 관리
 - 농장 등록/조회/삭제
