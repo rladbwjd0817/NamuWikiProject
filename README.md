@@ -1,7 +1,6 @@
-# 🌿 나무위키 — AI 식물 식별 & 스마트 농장 관리 플랫폼
+# 🌿 나무위키 — 스마트 농장 관리 플랫폼
 
-> 사진 한 장으로 식물을 식별하고, IoT 센서로 농장을 실시간 관리하며,  
-> 농업인과 소비자가 함께하는 식물 커뮤니티 플랫폼입니다.
+> IoT 센서로 농장을 실시간 관리하며, 농업인과 소비자가 함께하는 식물 커뮤니티 플랫폼입니다.
 
 ![Java](https://img.shields.io/badge/Java_17-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
