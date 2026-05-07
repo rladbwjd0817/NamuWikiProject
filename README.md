@@ -365,8 +365,7 @@ npx expo start
 
 | API 명세서 전체 |
 |------|
-| <img width="400" height="563" alt="API명세서" src="https://github.com/user-attachments/assets/27a5cadb-2a63-458f-a7cb-477e7bf9e20a" />
-|
+| <img width="400" height="563" alt="API명세서" src="https://github.com/user-attachments/assets/27a5cadb-2a63-458f-a7cb-477e7bf9e20a" />|
 
 ---
 
