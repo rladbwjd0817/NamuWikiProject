@@ -375,7 +375,7 @@ npx expo start
 
 | Slack 채널 | 이슈 / 진행 공유 |
 |---|---|
-| 📷 스크린샷 삽입 예정 | <img width="700" height="400" alt="image" src="https://github.com/user-attachments/assets/6cf7cace-7c0c-4460-9017-ca7ec9e63769" />
+| 📷 스크린샷 삽입 예정 | <img width="600" height="300" alt="image" src="https://github.com/user-attachments/assets/6cf7cace-7c0c-4460-9017-ca7ec9e63769" />
  |
 
 ---
