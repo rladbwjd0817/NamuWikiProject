@@ -1,4 +1,4 @@
-# 🌿 나무위키 — IoT 스마트팜 연동 식물 커뮤니티 플랫폼
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/4b1428b2-ab58-4b1b-9cd7-e75b1f95548c" /># 🌿 나무위키 — IoT 스마트팜 연동 식물 커뮤니티 플랫폼
 
 > 농장주와 일반 사용자를 잇는 **SNS형 식물 커뮤니티** 플랫폼
 > IoT 디바이스로 수집된 실시간 센서 데이터를 시각화하고, 신뢰 기반의 농산물 정보를 공유합니다.
@@ -375,7 +375,8 @@ npx expo start
 
 | Slack 채널 | 이슈 / 진행 공유 |
 |---|---|
-| 📷 스크린샷 삽입 예정 | <img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/6cf7cace-7c0c-4460-9017-ca7ec9e63769" />|
+| <img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/54845634-dd19-46ba-9ba7-ae1e2b5fc311" />
+ | <img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/6cf7cace-7c0c-4460-9017-ca7ec9e63769" />|
 
 ---
 
