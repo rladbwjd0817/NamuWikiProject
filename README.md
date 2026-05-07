@@ -258,7 +258,7 @@
 
 #### 농장주 인증번호 생성
 
-🎥 <img width="400" height="225" alt="농장주인증번호생성" src="https://github.com/user-attachments/assets/4b6afe85-134d-4cca-bb26-c10a07d3798d" />
+<img width="500" height="300" alt="농장주인증번호생성" src="https://github.com/user-attachments/assets/4b6afe85-134d-4cca-bb26-c10a07d3798d" />
 
 
 ---
