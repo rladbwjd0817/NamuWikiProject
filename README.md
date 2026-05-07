@@ -373,8 +373,8 @@ npx expo start
 
 일정 공유, 이슈 논의, 진행 상황 공유 등 팀 전체 소통 채널로 활용
 
-| Slack 채널 | 이슈 / 진행 공유 |
-|---|---|
+| Slack 채널 및 이슈 / 진행 공유 |
+|------|
 | <img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/54845634-dd19-46ba-9ba7-ae1e2b5fc311" />
  | <img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/6cf7cace-7c0c-4460-9017-ca7ec9e63769" />|
 
