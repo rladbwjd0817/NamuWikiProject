@@ -363,9 +363,9 @@ npx expo start
 
 도메인별 엔드포인트, 요청/응답 형식, 인증 여부를 사전 정의해 프론트엔드 · 앱 · 백엔드 동시 개발 진행
 
-| API 명세서 전체 | 도메인별 상세 |
-|---|---|
-| 📷 스크린샷 삽입 예정 | 📷 스크린샷 삽입 예정 |
+| API 명세서 전체 |
+|------|
+| <img width="446" height="545" alt="API 명세서" src="https://github.com/user-attachments/assets/2c56ec15-6646-483f-928e-dd6cbc1b1d5c" />|
 
 ---
 
