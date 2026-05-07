@@ -17,8 +17,8 @@
 
 | 레파지토리 | 역할 | 기술 스택 |
 |---|---|---|
-| [namuwiki](https://github.com/rladbwjd0817/namuwiki) | 백엔드 API 서버 | Java 17, Spring Boot 3, MariaDB, MyBatis, JWT |
-| [namuwiki-frontend](https://github.com/rladbwjd0817/namuwiki-frontend) | 웹 프론트엔드 | React 19, TypeScript, TailwindCSS, React Query |
+| [namuwiki](https://github.com/james14kr/namuwiki) | 백엔드 API 서버 | Java 17, Spring Boot 3, MariaDB, MyBatis, JWT |
+| [namuwiki-frontend](https://github.com/james14kr/namuwiki-frontend) | 웹 프론트엔드 | React 19, TypeScript, TailwindCSS, React Query |
 | [namuwiki-app](https://github.com/james14kr/namuwiki-app) | 모바일 앱 | React Native, Expo 54, TypeScript, TanStack Query |
 
 ---
