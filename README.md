@@ -174,8 +174,7 @@
 
 | 일반 유저 피드 | 농장주 피드 |
 |---|---|
-| <img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/7346e5c1-d62b-4bfa-b8fe-9f1764a756ce" />
- |<img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/50c08148-2c3f-469d-94e4-3c2b49f7629e" />|
+| <img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/7346e5c1-d62b-4bfa-b8fe-9f1764a756ce" />|<img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/50c08148-2c3f-469d-94e4-3c2b49f7629e" />|
 
 ---
 
