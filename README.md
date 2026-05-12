@@ -200,7 +200,8 @@
 
 #### 게시글 관리 (시연 영상)
 
-🎥 **[ 시연 영상 삽입 예정 ]**
+<img width="640" height="360" alt="KakaoTalk_20260512_143114680" src="https://github.com/user-attachments/assets/9df4794f-af82-40dc-a7ec-cb74f76fab06" />
+
 
 ---
 
