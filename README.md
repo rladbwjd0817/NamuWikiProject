@@ -202,6 +202,11 @@
 
 <img width="640" height="360" alt="KakaoTalk_20260512_143114680" src="https://github.com/user-attachments/assets/9df4794f-af82-40dc-a7ec-cb74f76fab06" />
 
+---
+
+#### 농장주 인증번호 생성
+
+<img width="500" height="300" alt="농장주인증번호생성" src="https://github.com/user-attachments/assets/4b6afe85-134d-4cca-bb26-c10a07d3798d" />
 
 ---
 
@@ -228,12 +233,6 @@
 #### DM 채팅 / 실시간 알림
 
 📷 **[ 스크린샷 삽입 예정 ]**
-
----
-
-#### 농장주 인증번호 생성
-
-<img width="500" height="300" alt="농장주인증번호생성" src="https://github.com/user-attachments/assets/4b6afe85-134d-4cca-bb26-c10a07d3798d" />
 
 ---
 
