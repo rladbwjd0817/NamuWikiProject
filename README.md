@@ -184,9 +184,10 @@
 
 ---
 
-#### 마이페이지 — 프로필 수정 (시연 영상)
+#### 마이페이지 — 프로필 수정 · 내 활동 기록 (시연 영상)
 
-🎥 **[ 시연 영상 삽입 예정 ]**
+<img width="640" height="360" alt="KakaoTalk_20260512_150904304" src="https://github.com/user-attachments/assets/0c0dd6e5-8076-4ba5-bdb5-92b80484e1a5" />
+
 
 ---
 
