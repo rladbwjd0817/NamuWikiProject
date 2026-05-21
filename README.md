@@ -191,7 +191,7 @@
 
 #### DM기능 — 실시간 채팅 (시연 영상)
 
-https://github.com/user-attachments/assets/9fc14f42-cf41-42fa-8466-5bea2ec19589
+<img width="640" height="360" alt="DM_기능_9MB" src="https://github.com/user-attachments/assets/307f4da5-8bfd-4173-83a5-c88bd312207e" />
 
 ---
 
@@ -211,7 +211,7 @@ https://github.com/user-attachments/assets/9fc14f42-cf41-42fa-8466-5bea2ec19589
 
 #### 농장주 인증번호 생성
 
-<img width="500" height="300" alt="농장주인증번호생성" src="https://github.com/user-attachments/assets/4b6afe85-134d-4cca-bb26-c10a07d3798d" />
+<img width="640" height="360" alt="농장주인증번호생성" src="https://github.com/user-attachments/assets/4b6afe85-134d-4cca-bb26-c10a07d3798d" />
 
 ---
 
