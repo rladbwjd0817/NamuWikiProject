@@ -56,7 +56,6 @@
 - **react-native-daum-postcode** — 주소 검색
 
 ### 인프라 / DevOps
-- **AWS EC2** — 서버 배포
 - **AWS RDS (MariaDB)** — 클라우드 데이터베이스
 - **AWS S3** — 이미지 스토리지 (Presigned URL)
 - **GitHub Actions** — CI/CD 자동 배포
@@ -217,56 +216,40 @@
 
 ---
 
-### 📱 App — 일반 사용자 기능
+### 📱 App 기능
 
-#### 홈 화면 날씨 배너 / 농장 탐색 / 팔로우
+### 🔐 로그인
+<img src="assets/images/readme/LoginGIF-1-ezgif.com-video-to-gif-converter.gif" width="100%"/>
 
-📷 **[ 스크린샷 삽입 예정 ]**
+### 🏠 홈 피드 (무한스크롤)
+<img src="assets/images/readme/HomeFeed-1-ezgif.com-video-to-gif-converter.gif" width="100%"/>
 
----
+### 🌡️ 센서 데이터 모니터링
+<img src="assets/images/readme/SensorDataMonitoring-1-ezgif.com-video-to-gif-converter.gif" width="100%"/>
 
-#### 작물 건강 상태 조회 (센서 데이터)
+### 👨‍🌾 일반사용자 농작물 건강도 조회
+<img src="assets/images/readme/CropHealthStatusCheck-1-ezgif.com-video-to-gif-converter.gif" width="100%"/>
 
-📷 **[ 스크린샷 삽입 예정 ]**
+### ⚙️ 임계값 변경
+<img src="assets/images/readme/ThresholdAdjustment-1-ezgif.com-video-to-gif-converter.gif" width="100%"/>
 
----
+### 🟢 기기 수동 ON
+<img src="assets/images/readme/ON-1-ezgif.com-video-to-gif-converter.gif" width="100%"/>
 
-#### SNS 피드 / 댓글 / 좋아요
+### 🔴 기기 수동 OFF
+<img src="assets/images/readme/OFF-1-ezgif.com-video-to-gif-converter.gif" width="100%"/>
 
-📷 **[ 스크린샷 삽입 예정 ]**
+### 🛠️ 기기 자동 제어
+<img src="assets/images/readme/AUTO-1-ezgif.com-video-to-gif-converter.gif" width="100%"/>
 
----
+### 💬 실시간 DM 채팅
+<img src="assets/images/readme/Real-TimeDirectMessageChat-1-ezgif.com-video-to-gif-converter.gif" width="100%"/>
 
-#### DM 채팅 / 실시간 알림
+### 👤 프로필
+<img src="assets/images/readme/Profile-12-ezgif.com-video-to-gif-converter.gif" width="100%"/>
 
-📷 **[ 스크린샷 삽입 예정 ]**
-
----
-
-### 📱 App — 농장주 기능
-
-#### 내 농장 관리 (농장 · 작물 등록)
-
-📷 **[ 스크린샷 삽입 예정 ]**
-
----
-
-#### 기기 관리 (IoT 디바이스 등록 · 연결)
-
-📷 **[ 스크린샷 삽입 예정 ]**
-
----
-
-#### 센서 데이터 모니터링 + 히스토리 차트
-
-📷 **[ 스크린샷 삽입 예정 ]**
-
----
-
-#### 기기 원격 제어
-
-📷 **[ 스크린샷 삽입 예정 ]**
-
+### 👤 팔로우
+<img src="assets/images/readme/Follow-1-ezgif.com-video-to-gif-converter.gif" width="100%"/>
 ---
 
 ## 📂 프로젝트 구조
