@@ -351,7 +351,8 @@ npx expo start
 
 | 웹 화면 설계 | 모바일 화면 설계 |
 |---|---|
-| 📷 스크린샷 삽입 예정 | 📷 스크린샷 삽입 예정 |
+| <img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/c701cc14-fb9e-4c44-be29-2045ae3c0a40" />
+ | 📷 스크린샷 삽입 예정 |
 
 ---
 
