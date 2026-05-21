@@ -351,8 +351,7 @@ npx expo start
 
 | 웹 화면 설계 | 모바일 화면 설계 |
 |---|---|
-| <img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/c701cc14-fb9e-4c44-be29-2045ae3c0a40" />
-|<img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/43d36a4e-e94f-4fe3-bb50-c6f6d2255b07" />|
+| <img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/c701cc14-fb9e-4c44-be29-2045ae3c0a40" />|<img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/43d36a4e-e94f-4fe3-bb50-c6f6d2255b07" />|
 
 ---
 
