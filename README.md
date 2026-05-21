@@ -219,37 +219,38 @@
 ### 📱 App 기능
 
 ### 🔐 로그인
-<img src="assets/images/readme/LoginGIF-1-ezgif.com-video-to-gif-converter.gif" width="100%"/>
+<img width="640" height="360" alt="앱 로그인" src="https://github.com/user-attachments/assets/b2ee60a1-51cb-439b-91aa-48c5cd5b03d2" />
 
 ### 🏠 홈 피드 (무한스크롤)
-<img src="assets/images/readme/HomeFeed-1-ezgif.com-video-to-gif-converter.gif" width="100%"/>
+<img width="640" height="360" alt="홈피드 - 무한스크롤" src="https://github.com/user-attachments/assets/d3e254db-d367-4386-8640-5ee458de3608" />
 
 ### 🌡️ 센서 데이터 모니터링
-<img src="assets/images/readme/SensorDataMonitoring-1-ezgif.com-video-to-gif-converter.gif" width="100%"/>
+<img width="640" height="360" alt="SensorDataMonitoring-1-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/4581bac3-2f9e-445d-83e3-4146eef1155c" />
 
 ### 👨‍🌾 일반사용자 농작물 건강도 조회
-<img src="assets/images/readme/CropHealthStatusCheck-1-ezgif.com-video-to-gif-converter.gif" width="100%"/>
+<img width="640" height="360" alt="일반사용자 농작물 조회" src="https://github.com/user-attachments/assets/42d5744f-d262-47f3-b88e-cc1b9f240b93" />
 
 ### ⚙️ 임계값 변경
-<img src="assets/images/readme/ThresholdAdjustment-1-ezgif.com-video-to-gif-converter.gif" width="100%"/>
+<img width="640" height="360" alt="임계값변경" src="https://github.com/user-attachments/assets/d00d3382-2401-4bcb-b9c4-85cd3d7569bd" />
 
 ### 🟢 기기 수동 ON
-<img src="assets/images/readme/ON-1-ezgif.com-video-to-gif-converter.gif" width="100%"/>
+<img width="640" height="360" alt="기기수동 on" src="https://github.com/user-attachments/assets/952d2843-ca51-4e35-a10c-4f8c318cf5ef" />
 
 ### 🔴 기기 수동 OFF
-<img src="assets/images/readme/OFF-1-ezgif.com-video-to-gif-converter.gif" width="100%"/>
+<img width="640" height="360" alt="기기수동 off" src="https://github.com/user-attachments/assets/1dadfdd2-c8b2-4a8f-83e8-75d617a86915" />
 
 ### 🛠️ 기기 자동 제어
-<img src="assets/images/readme/AUTO-1-ezgif.com-video-to-gif-converter.gif" width="100%"/>
+<img width="640" height="360" alt="기기 자동 제어" src="https://github.com/user-attachments/assets/56541221-3cd3-4acf-a52e-a0553f65e105" />
 
 ### 💬 실시간 DM 채팅
-<img src="assets/images/readme/Real-TimeDirectMessageChat-1-ezgif.com-video-to-gif-converter.gif" width="100%"/>
+<img width="640" height="360" alt="실시간 DM" src="https://github.com/user-attachments/assets/e92a54a4-4790-4c4d-8b1d-f612f32fb7c6" />
 
 ### 👤 프로필
-<img src="assets/images/readme/Profile-12-ezgif.com-video-to-gif-converter.gif" width="100%"/>
+<img width="640" height="360" alt="프로필" src="https://github.com/user-attachments/assets/f13e5393-e73c-40df-8e3f-2a4f90a09372" />
 
 ### 👤 팔로우
-<img src="assets/images/readme/Follow-1-ezgif.com-video-to-gif-converter.gif" width="100%"/>
+<img width="640" height="360" alt="팔로우" src="https://github.com/user-attachments/assets/9cc8bfd1-2955-43b5-8567-5194bdb39c3a" />
+
 ---
 
 ## 📂 프로젝트 구조
