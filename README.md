@@ -187,12 +187,11 @@
 
 <img width="640" height="360" alt="KakaoTalk_20260512_150904304" src="https://github.com/user-attachments/assets/0c0dd6e5-8076-4ba5-bdb5-92b80484e1a5" />
 
-
 ---
 
 #### DM기능 — 실시간 채팅 (시연 영상)
 
-🎥 **[ 시연 영상 삽입 예정 ]**
+https://github.com/user-attachments/assets/9fc14f42-cf41-42fa-8466-5bea2ec19589
 
 ---
 
